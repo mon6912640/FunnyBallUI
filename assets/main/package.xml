@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="wk5bg6yk" jpegQuality="80" compressPNG="true">
+  <resources>
+    <image id="q0y90" name="basecircle.png" path="/res/"/>
+    <component id="q0y91" name="MainUIGUI.xml" path="/" exported="true"/>
+    <component id="q0y92" name="BaseItemGUI.xml" path="/com/" exported="true"/>
+  </resources>
+  <publish name="main" genCode="true"/>
+</packageDescription>
