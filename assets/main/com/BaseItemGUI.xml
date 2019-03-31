@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <component size="76,76">
   <displayList>
-    <loader id="n0_q0y9" name="bgLoader" xy="0,0" size="76,76" url="ui://wk5bg6ykq0y90">
+    <loader id="n0_q0y9" name="bgLoader" xy="0,0" size="76,76" url="ui://wk5bg6ykq0y90" fill="scaleNoBorder">
       <relation target="" sidePair="width-width,height-height"/>
     </loader>
   </displayList>
