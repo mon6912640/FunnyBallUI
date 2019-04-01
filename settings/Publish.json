@@ -2,7 +2,7 @@
 	"binaryFormat":false,
 	"codeGeneration":{
 		"classNamePrefix":"UI_",
-		"codePath":"D:\\EgretProject\\FunnyBall\\src\\uicode",
+		"codePath":"../FunnyBall/src/uicode",
 		"codeType":"",
 		"getMemberByName":false,
 		"ignoreNoname":true,
@@ -12,5 +12,5 @@
 	"compressDesc":false,
 	"fileExtension":"",
 	"packageCount":2,
-	"path":"D:\\EgretProject\\FunnyBall\\resource\\assets\\fgui"
+	"path":"../FunnyBall/resource/assets/fgui"
 }
