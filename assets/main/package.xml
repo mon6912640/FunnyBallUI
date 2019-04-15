@@ -25,6 +25,8 @@
     <image id="jm85l" name="亿.png" path="/com/fontRes/" exported="true"/>
     <image id="jm85m" name="x.png" path="/com/fontRes/" exported="true"/>
     <image id="jm85n" name="阶.png" path="/com/fontRes/" exported="true"/>
+    <component id="cs5ao" name="NormalBtn.xml" path="/com/" exported="true"/>
+    <image id="cs5ap" name="底框4.png" path="/res/" scale="9grid" scale9grid="5,4,4,5"/>
   </resources>
   <publish name="main" genCode="true"/>
 </packageDescription>

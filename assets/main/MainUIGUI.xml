@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component size="640,1136" bgColor="#000000">
+<component size="640,1136" bgColor="#000000" adaptationTest="FitSize">
   <displayList>
     <graph id="n1_rf5i" name="bg" xy="0,0" size="640,1136" type="rect" lineSize="0" fillColor="#ff000000"/>
+    <graph id="n2_xdax" name="n2" xy="0,0" size="320,568" type="rect" lineColor="#ffffffff" fillColor="#ff000000"/>
+    <graph id="n3_xdax" name="n3" xy="320,568" size="320,568" type="rect" lineColor="#ffffffff" fillColor="#ff000000"/>
+    <component id="n4_cs5a" name="btnStop" src="cs5ao" fileName="com/NormalBtn.xml" xy="519,1096" size="121,40">
+      <Button title="停止" icon="ui://wk5bg6ykcs5ap"/>
+    </component>
   </displayList>
 </component>
