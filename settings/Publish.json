@@ -1,16 +1,16 @@
 {
-	"binaryFormat":false,
+	"binaryFormat":true,
 	"codeGeneration":{
 		"classNamePrefix":"UI_",
 		"codePath":"../FunnyBall/src/uicode",
 		"codeType":"",
-		"getMemberByName":false,
+		"getMemberByName":true,
 		"ignoreNoname":true,
 		"memberNamePrefix":"m_",
 		"packageName":""
 	},
 	"compressDesc":false,
-	"fileExtension":"",
+	"fileExtension":"bin",
 	"packageCount":2,
 	"path":"../FunnyBall/resource/assets/fgui"
 }
