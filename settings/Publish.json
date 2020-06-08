@@ -1,16 +1,35 @@
 {
-	"binaryFormat":true,
-	"codeGeneration":{
-		"classNamePrefix":"UI_",
-		"codePath":"../FunnyBall/src/uicode",
-		"codeType":"",
-		"getMemberByName":true,
-		"ignoreNoname":true,
-		"memberNamePrefix":"m_",
-		"packageName":""
-	},
-	"compressDesc":false,
-	"fileExtension":"bin",
-	"packageCount":2,
-	"path":"../FunnyBall/resource/assets/fgui"
+  "path": "../FunnyBall/resource/assets/fgui",
+  "branchPath": "",
+  "fileExtension": "bin",
+  "packageCount": 2,
+  "compressDesc": false,
+  "binaryFormat": true,
+  "jpegQuality": 80,
+  "compressPNG": false,
+  "codeGeneration": {
+    "allowGenCode": true,
+    "codePath": "../FunnyBall/src/uicode",
+    "classNamePrefix": "UI_",
+    "memberNamePrefix": "m_",
+    "packageName": "",
+    "ignoreNoname": true,
+    "getMemberByName": true,
+    "codeType": ""
+  },
+  "includeHighResolution": 0,
+  "branchProcessing": 0,
+  "seperatedAtlasForBranch": false,
+  "atlasSetting": {
+    "maxSize": 2048,
+    "paging": true,
+    "sizeOption": "npot",
+    "forceSquare": false,
+    "allowRotation": false,
+    "trimImage": false
+  },
+  "include2x": false,
+  "include3x": false,
+  "include4x": false,
+  "fileName": "Publish"
 }
