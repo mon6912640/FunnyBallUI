@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<packageDescription id="wk5bg6yk" jpegQuality="80" compressPNG="true">
+<packageDescription id="wk5bg6yk">
   <resources>
     <image id="q0y90" name="basecircle.png" path="/res/" exported="true"/>
     <component id="q0y91" name="MainUIGUI.xml" path="/" exported="true"/>
@@ -27,6 +27,8 @@
     <image id="jm85n" name="阶.png" path="/com/fontRes/" exported="true"/>
     <component id="cs5ao" name="NormalBtn.xml" path="/com/" exported="true"/>
     <image id="cs5ap" name="底框4.png" path="/res/" scale="9grid" scale9grid="5,4,4,5"/>
+    <image id="t44pq" name="basecircle_blue.png" path="/res/" exported="true"/>
+    <image id="t44pr" name="basecircle_blue2.png" path="/res/" exported="true"/>
   </resources>
   <publish name="main" genCode="true"/>
 </packageDescription>
