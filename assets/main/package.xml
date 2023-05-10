@@ -29,6 +29,7 @@
     <image id="cs5ap" name="底框4.png" path="/res/" scale="9grid" scale9grid="5,4,4,5"/>
     <image id="t44pq" name="basecircle_blue.png" path="/res/" exported="true"/>
     <image id="t44pr" name="basecircle_blue2.png" path="/res/" exported="true"/>
+    <image id="t44ps" name="basecircle_yellow.png" path="/res/" exported="true"/>
   </resources>
   <publish name="main" genCode="true"/>
 </packageDescription>
